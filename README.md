@@ -13,7 +13,7 @@ My personal Prettier config ( 我的 Prettier 配置 )
 ## Install ( 安装 )
 
 ```bash
-npm i -D prettier  @ooyi/prettier-config
+npm i -D prettier @ooyi/prettier-config
 ```
 
 ## Usage ( 使用 )
@@ -22,7 +22,7 @@ Edit `package.json` ( 编辑 `package.json` )
 
 ```jsonc
 // config
-"prettier": "npm i @ooyi/prettier-config"
+"prettier": "@ooyi/prettier-config"
 
 // script
 "scripts": {
